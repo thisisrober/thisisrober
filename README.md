@@ -16,7 +16,7 @@
 
 # Robert
 
-👋 Hi! I'm Robert, a full-stack developer passionate about technology and creating innovative solutions.
+👋 Hi! I'm Robert, a software developer passionate about AI, technology and creating innovative solutions.
 
 ## Find me at
 
