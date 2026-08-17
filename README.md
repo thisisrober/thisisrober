@@ -16,12 +16,12 @@
 
 # Robert
 
-👋 Hi! I'm Robert, a software developer passionate about AI, technology and creating innovative solutions.
+👋 Hi! I'm ROBYN, a software developer passionate about AI, technology and creating innovative solutions.
 
 ## Find me at
 
-- 🌐 Personal website: [thisisrober.es](https://thisisrober.es/)
-- 💼 LinkedIn: [@thisisrober](https://www.linkedin.com/in/thisisrober/)
+- 🌐 Personal website: [robyn.es](https://robyn.es/)
+- 💼 LinkedIn: [@thisisrobyn](https://www.linkedin.com/in/thisisrobyn/)
 
 ---
 
