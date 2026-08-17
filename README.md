@@ -13,9 +13,6 @@
   />
 </picture>
 
-
-# Robert
-
 👋 Hi! I'm ROBYN, a software developer passionate about AI, technology and creating innovative solutions.
 
 ## Find me at
